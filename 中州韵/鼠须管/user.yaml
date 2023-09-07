@@ -1,0 +1,19 @@
+var:
+  last_build_time: 1693218695
+  previously_selected_schema: double_pinyin_plus
+  schema_access_time:
+    PY_c: 1692607658
+    bopomofo: 1693218242
+    bzzm: 1692255919
+    clover: 1692073484
+    double_pinyin_plus: 1693801644
+    ian_pinyin: 1692089257
+    luna_pinyin: 1692087608
+    numbers: 1691983764
+    pinyin_simp: 1693209359
+    tiger: 1692937557
+    tigress: 1692356118
+    wubi86_jidian: 1692010402
+    yuhao: 1692011979
+    yuhao_tradition: 1692007695
+    yuhao_tradition_tw: 1692007732

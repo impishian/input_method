@@ -1,0 +1,7 @@
+# Rime table
+#@/db_name	yuhao_tradition
+#@/db_type	tabledb
+#@/rime_version	1.8.5
+#@/tick	23
+國	ng	16
+後	r	30

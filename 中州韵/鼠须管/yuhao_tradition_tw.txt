@@ -1,0 +1,29 @@
+# Rime table
+#@/db_name	yuhao_tradition_tw
+#@/db_type	tabledb
+#@/rime_version	1.8.5
+#@/tick	76
+可	a	6
+給	b	6
+好	c	6
+不	d	4
+的	e	4
+一	f	4
+杯	fd	2
+大	g	6
+到	h	8
+沒	i	8
+是	j	2
+上	k	4
+中	l	2
+還	m	2
+國	ng	22
+就	o	4
+裡	p	20
+我	q	4
+後	r	14
+在	s	6
+人	t	2
+了	v	6
+然	w	4
+出	x	6

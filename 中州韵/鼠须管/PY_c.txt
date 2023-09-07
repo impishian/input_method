@@ -1,0 +1,12 @@
+# Rime table
+#@/db_name	PY_c
+#@/db_type	tabledb
+#@/rime_version	1.8.5
+#@/tick	7
+川	chuan	2
+都是	dou shi	2
+哦	o	2
+如果	ru guo	2
+说	shuo	2
+天意	tian yi	2
+一切	yi qie	2
