@@ -17,3 +17,5 @@
 比如，手心输入法，不管是什么双拼方案，都可以另挂接自定义的独立辅码表。[鹤形单辅码 for 手心](https://github.com/impishian/input_method/blob/main/%E9%B9%A4%E5%BD%A2%E8%BE%85%E7%A0%81/%E5%B8%B8%E7%94%A8%E5%8D%95%E5%AD%97_%E9%B9%A4%E5%BD%A2%E5%8D%95%E8%BE%85_%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95.txt) 是一份单辅码码表，只配了首形声母，可用于手心输入法的自定义辅码中。
 
 用 Rime，也可用 lua 代码，实现挂接独立的辅码表。可参见：[辅助码分离的插件](https://github.com/HowcanoeWang/rime-lua-aux-code)
+
+鹤形辅码易学，字根设计简单且规律，规则比五笔等形码更为简明。
