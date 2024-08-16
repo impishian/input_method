@@ -76,7 +76,7 @@ $ awk '{print $2}' zrm_8105.txt | awk '!a[$0]++' | wc -l
 
 以上面提到的 xh 和 zrm 两个 8105.dict.yaml 为输入，分别提取后者的双拼、前者的辅码，再转换得到手心所用的格式。
 
-[手心输入法个性短语](https://github.com/impishian/input_method/blob/main/%E9%B9%A4%E5%BD%A2%E8%BE%85%E7%A0%81/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AA%E6%80%A7%E7%9F%AD%E8%AF%AD%E5%AF%BC%E5%87%BA_zrm_xh.txt)  
+[手心输入法个性短语-自然鹤形](https://github.com/impishian/input_method/blob/main/%E9%B9%A4%E5%BD%A2%E8%BE%85%E7%A0%81/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AA%E6%80%A7%E7%9F%AD%E8%AF%AD%E5%AF%BC%E5%87%BA_zrm_xh.txt)  
 
 下载，导入到电脑版手心，或手机版本手心的自定义短语里，即可使用。
 
