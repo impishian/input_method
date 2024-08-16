@@ -1,3 +1,7 @@
+# 此为早期备份，现已改用 [rime-ice-ziranma-zhengma-huma](https://github.com/impishian/rime-ice-ziranma-zhengma-huma)
+
+----
+
 # Rime double pinyin plus
 
 双拼输入法增强版
