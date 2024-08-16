@@ -1,3 +1,4 @@
+aadz,1=啊
 aatz,1=阿
 aadg,1=吖
 aazz,1=锕
