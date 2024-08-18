@@ -16,7 +16,9 @@
 
 [手心输入法个性化短语-自然虎形](https://github.com/impishian/input_method/blob/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AA%E6%80%A7%E7%9F%AD%E8%AF%AD%E5%AF%BC%E5%87%BA_zrm_hu.txt)
 
-下载，导入到电脑版手心，或手机版本手心的自定义短语里，即可使用。如果用搜狗，则用以下文件：
+下载，导入到电脑版手心，或手机版本手心的自定义短语里，即可使用。
+
+如果用搜狗，则用以下文件：
 
 [搜狗输入法个性化短语-自然虎形](https://github.com/impishian/input_method/blob/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AA%E6%80%A7%E7%9F%AD%E8%AF%AD%E5%AF%BC%E5%87%BA_zrm_hu.ini)
 
