@@ -12,9 +12,12 @@
 
 由于已经熟记形码字根，不想与 自然辅码、鹤形辅码 字根拆法、字根键位搞混。 不妨用 虎码首末根来做辅码。
 
-[手心输入法个性短语-自然虎形](https://github.com/impishian/input_method/blob/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AA%E6%80%A7%E7%9F%AD%E8%AF%AD%E5%AF%BC%E5%87%BA_zrm_hu.txt)
+[手心输入法个性化短语-自然虎形](https://github.com/impishian/input_method/blob/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81/%E6%89%8B%E5%BF%83%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AA%E6%80%A7%E7%9F%AD%E8%AF%AD%E5%AF%BC%E5%87%BA_zrm_hu.txt)
 
-下载，导入到电脑版手心，或手机版本手心的自定义短语里，即可使用。
+下载，导入到电脑版手心，或手机版本手心的自定义短语里，即可使用。如果用搜狗，则用以下文件：
+
+[搜狗输入法个性化短语-自然虎形](https://github.com/impishian/input_method/blob/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AA%E6%80%A7%E7%9F%AD%E8%AF%AD%E5%AF%BC%E5%87%BA_zrm_hu.ini)
+
 
 #### 3. 手心输入法的一些小 Tips
 
@@ -34,6 +37,12 @@
 
 用中括号, 输入一个词, 左中括号上首字, 右中括号上末字
 
-##### 3.5 如果用搜狗
+##### 3.5 手心 vs. 搜狗
 
-基本类似，参考上面这些 Tips。不过，如果是 Windows下的搜狗，建议用 “搜狗智慧版” ，可以有禁用动态调频等选项，搜狗最新版本则没有这些有用的功能，默认动态调频不可修改。
+手心、搜狗基本类似，参考上面这些 Tips。
+
+如果是 Windows版的搜狗，建议用 “搜狗智慧版” ，可以有禁用调频等选项，搜狗最新版本则没有这些有用的功能，默认自动调频，不可修改。
+
+如果使用 MacOS，手心有“以词定字”功能，搜狗则没有“以词定字”功能。
+
+手心也可以使用搜狗细胞词库。下载一些搜狗细胞词库。通过 [imewlconverter](https://github.com/studyzy/imewlconverter.git) 这个词库转换工具，把细胞词库转换为手心版本的词库，再导入手心。
