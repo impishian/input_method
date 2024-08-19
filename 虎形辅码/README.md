@@ -138,4 +138,6 @@ dotnet ImeWlConverterCmd.dll -i:qpyd ./a.qpyd -o:self ./zy.txt "-f:213, nyyn" -c
 
 最后，如果这款软件帮助到了您，您可以通过捐赠表示感谢，捐赠作者支付宝地址：studyzy@163.com 曾毅
 输入 -? 可获取帮助
+
+$ docker run --rm -it -v ./dict:/dict imewlconverter:1.0 -i:scel ./dict/input/*.scel -o:sxpy ./dict/output/*
 ```
