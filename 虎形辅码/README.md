@@ -51,8 +51,12 @@
 
 手心也可以使用搜狗细胞词库。下载一些搜狗细胞词库。通过 [imewlconverter](https://github.com/studyzy/imewlconverter.git) 这个词库转换工具，把细胞词库转换为手心版本的词库，再导入手心。
 
+在 MacOS 下通过 docker ，运行 imewlconverter，可将 ./dict/input/*.scel 的搜狗细胞词库，转换为手心词库，输出到 ./dict/output/ ，具体如下：
+
 ```
 $ docker build -t imewlconverter:1.0 .
+
+$ docker run --rm -it -v ./dict:/dict imewlconverter:1.0 -i:scel ./dict/input/*.scel -o:sxpy ./dict/output/*
 
 $ docker run -it imewlconverter:1.0  -?
 当前版本：V2.7.0.0
@@ -138,6 +142,4 @@ dotnet ImeWlConverterCmd.dll -i:qpyd ./a.qpyd -o:self ./zy.txt "-f:213, nyyn" -c
 
 最后，如果这款软件帮助到了您，您可以通过捐赠表示感谢，捐赠作者支付宝地址：studyzy@163.com 曾毅
 输入 -? 可获取帮助
-
-$ docker run --rm -it -v ./dict:/dict imewlconverter:1.0 -i:scel ./dict/input/*.scel -o:sxpy ./dict/output/*
 ```
