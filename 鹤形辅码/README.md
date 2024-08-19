@@ -82,24 +82,119 @@ $ awk '{print $2}' zrm_8105.txt | awk '!a[$0]++' | wc -l
 
 BTW, 自然码双拼 + 鹤形辅码，与 小鹤双拼 + 鹤形双辅码 一样，重码率不变，仍是 < 0.8%.
 
-#### 2.4 手心输入法的一些小 Tips
+#### 3. 手心输入法的一些小 Tips
 
-#### 2.4.1 禁用联网
+##### 3.1 禁用联网
 
 安装好一些自定义词库后，电脑上可以用防火墙禁用其主动联网，防止隐私上报（比如, MacOS 可以用开源的 Lulu）。Android手机上可以禁用手心联网权限。
 
-#### 2.4.2 禁用调频
+##### 3.2 禁用调频
 
 打单固定位置比较好。
 
-#### 2.4.3 启用 “分号和单引号选二三字” 
+##### 3.3 启用 “分号和单引号选二三字”
 
 对少量重码的字，在2/3位固定好，多打就记住了位置。可以用 ;' 选字盲打。
 
-#### 2.4.4 启用 “以词定字”
+##### 3.4 启用 “以词定字”
 
 用中括号, 输入一个词, 左中括号上首字, 右中括号上末字
 
-#### 2.4.5 如果用搜狗
+##### 3.5 手心 vs. 搜狗
 
-基本类似，参考上面这些 Tips。不过，如果是 Windows下的搜狗，建议用 “搜狗智慧版” ，可以有禁用动态调频等选项，搜狗最新版本则没有这些有用的功能，默认动态调频不可修改。
+手心、搜狗基本类似，参考上面这些 Tips。
+
+如果是 Windows版的搜狗，建议用 “搜狗智慧版” ，可以有禁用调频等选项，搜狗最新版本则没有这些有用的功能，默认自动调频，不可修改。
+
+如果使用 MacOS，手心有“以词定字”功能，搜狗则没有“以词定字”功能。
+
+手心也可以使用搜狗细胞词库。下载一些搜狗细胞词库。通过 [imewlconverter](https://github.com/studyzy/imewlconverter.git) 这个词库转换工具，把细胞词库转换为手心版本的词库，再导入手心。
+
+```
+$ docker build -t imewlconverter:1.0 .
+
+$ docker run -it imewlconverter:1.0  -?
+当前版本：V2.7.0.0
+-i:输入的词库类型 词库路径1 词库路径2 词库路径3 -o:输出的词库类型 输出词库路径 -c:编码文件路径
+输入和输出的词库类型如下：
+sgpy	搜狗拼音txt
+scel	搜狗细胞词库scel
+sgpybin	搜狗拼音备份词库bin
+qqpy	QQ拼音
+qpyd	QQ分类词库qpyd
+qcel	QQ分类词库qcel
+qqwb	QQ五笔
+qqpye	QQ拼音英文
+bdpy	百度拼音
+xiaoxiao	小小输入法
+bdict	百度分类词库bdict
+ggpy	谷歌拼音
+pyjj	拼音加加
+win10mspy	Win10微软拼音（自定义短语）
+win10mswb	Win10微软五笔（自定义短语）
+mspy	微软拼音
+bing	必应输入法
+fit	FIT输入法
+rime	Rime中州韵
+plist	Mac简体拼音
+zgpy	华宇紫光拼音
+uwl	紫光拼音词库uwl
+libpy	libpinyin
+pyim	Chinese-pyim
+sxpy	手心输入法
+xlpy	新浪拼音
+jdzm	极点郑码
+jd	极点五笔
+xywb	小鸭五笔
+yahoo	雅虎奇摩
+ld2	灵格斯ld2
+wb86	五笔86版
+wb98	五笔98版
+cjpt	仓颉平台
+emoji	Emoji
+bdsj	百度手机或Mac版百度拼音
+bdsje	百度手机英文
+bcd	百度手机词库bcd
+qqsj	QQ手机
+ifly	讯飞输入法
+self	自定义
+word	无拼音纯汉字
+
+例如要将./test.scel和./a.scel的搜狗细胞词库转换为./gg.txt的谷歌拼音词库，命令为：
+dotnet ImeWlConverterCmd.dll -i:scel ./test.scel ./a.scel -o:ggpy ./gg.txt
+例如要将./test.scel和./a.scel的搜狗细胞词库转换为./temp文件夹下的谷歌拼音词库test.txt和a.txt，命令为：
+dotnet ImeWlConverterCmd.dll -i:scel ./test.scel ./a.scel -o:ggpy ./temp/*
+例如要将./test/*.scel的搜狗细胞词库转换为./temp文件夹下的谷歌拼音词库，命令为：
+dotnet ImeWlConverterCmd.dll -i:scel ./test/*.scel -o:ggpy ./temp/*
+
+对于导入词库不包含词频，而导出时需要指定词频，可以通过-r:命令指定词频的生成方式，支持的有：
+-r:baidu  根据该词语在百度搜索的结果数量决定词频
+-r:google  根据该词语在Google搜索的结果数量决定词频(需翻墙)
+-r:数字  指定一个固定数字的词频
+
+对于导出词库为Rime输入法的，可以通过-ct:pinyin/wubi/zhengma设置编码，也可通过-os:windows/macos/linux设置适用的操作系统
+
+使用-ft:可以设置词条的过滤条件，如果不设置则不过滤任何词条。-ft:后面可以设置的过滤条件包括：
+len:1-100 保留字数为1到100的词条
+rank:2-9999 保留词频在2到9999的词条
+rm:eng 移除包含英文字母的词条
+rm:num 移除包含数字的词条
+rm:space 移除包含空格的词条
+rm:pun 移除包含标点符号的词条
+以上过滤条件可以组合，同时起作用，用竖线分开即可：
+-ft:"len:1-100|rank:2-9999|rm:eng|rm:num|rm:space|rm:pun"
+
+自定义格式的参数如下:
+-f:213,|byyn
+213 这里是设置拼音、汉字和词频的顺序，213表示1汉字2拼音3词频，必须要有3个
+, 这里是设置拼音之间的分隔符，用逗号分割
+| 这里是设置汉字拼音词频之间的分隔符，用|分割
+b 这里是设置拼音分隔符的位置，有lrbn四个选项，l表示左包含，r表示右包含，b表示两边都包含，n表示两边都不包含
+yyn 这里是设置拼音汉字词频这3个是否显示，y表示显示，b表示不显示，这里yyn表示显示拼音和汉字，不显示词频
+例如要将一个qpyd词库转换为自定义格式的文本词库，拼音之间逗号分割，拼音和词之间空格分割，不显示词频，同时使用自定义的编码文件code.txt命令如下：
+dotnet ImeWlConverterCmd.dll -i:qpyd ./a.qpyd -o:self ./zy.txt "-f:213, nyyn" -c:./code.txt
+其中-c:./code.txt指定的编码文件格式为：“汉字<Tab键>编码”每行一个。
+
+最后，如果这款软件帮助到了您，您可以通过捐赠表示感谢，捐赠作者支付宝地址：studyzy@163.com 曾毅
+输入 -? 可获取帮助
+```
