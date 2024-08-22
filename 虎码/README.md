@@ -2,7 +2,7 @@
 
 为尽快熟悉虎码字根，一般是不像五笔那样背口诀，务必用 [官网练习程序——**字根入门练习**](https://tiger-code.com/practice) 来学习掌握。
 
-可打印 [**虎码字根图**](https://github.com/impishian/input_method/blob/main/%E8%99%8E%E7%A0%81/%E8%99%8E%E7%A0%81%E5%AD%97%E6%A0%B9%E5%9B%BE.jpg) ，只剪下键盘部分，放在电脑前参考。像玩游戏一样，打到30000分就基本记住了。后面要强化，就再向后继续练习。
+可打印 [**虎码字根图**](https://github.com/impishian/input_method/blob/main/%E8%99%8E%E7%A0%81/%E8%99%8E%E7%A0%81%E5%AD%97%E6%A0%B9%E5%9B%BE.jpg) ，只剪下键盘部分，放在电脑前参考。像玩游戏一样，打到30000分就基本记住了。如果要强化，就再打更高分。
 
 ----
 
