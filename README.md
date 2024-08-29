@@ -197,7 +197,7 @@ BTW，注音输入法的双拼并不常见，一般会叫做“双码注音输�
 
 [尔雅徐码@徐国银](http://xumax.cn/)〔[五二顶@局外人](https://github.com/Ace-Who/rime-xuma?tab=readme-ov-file)〕
 
-[宇浩@朱宇浩](https://yuhao.forfudan.com/) [宇浩网盘](http://zhuyuhao.ysepan.com/?xzpd=1)
+[宇浩@朱宇浩](https://yuhao.forfudan.com/)  | [宇浩网盘](http://zhuyuhao.ysepan.com/?xzpd=1)
 
 [真码@命](http://sixchou.ysepan.com/)
 
