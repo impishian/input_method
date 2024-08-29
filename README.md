@@ -235,7 +235,7 @@ BTW，注音输入法的双拼并不常见，一般会叫做“双码注音输�
 
 ## 永硕 E 盘的一些输入法资源
 
-[爱汉字，用郑码](http://zmdisk.ysepan.com/) [Gang的郑码网盘、龙字根](http://gapeng.ysepan.com/)  [观海的郑码网盘](http://liuwenshu.ysepan.com/) [俗人的郑码网盘](http://wangzhulin.ysepan.com/)
+[爱汉字，用郑码](http://zmdisk.ysepan.com/)  | [Gang的郑码网盘、龙字根](http://gapeng.ysepan.com/)  |  [观海的郑码网盘](http://liuwenshu.ysepan.com/)  | [俗人的郑码网盘](http://wangzhulin.ysepan.com/)
 
 [地下五笔、现代五笔、地下郑码、超强郑码、五码郑码 等](http://uggx.ysepan.com/?xzpd=1)
 
@@ -251,7 +251,7 @@ BTW，注音输入法的双拼并不常见，一般会叫做“双码注音输�
 
 [字源](http://bxm.ysepan.com/?xzpd=1)
 
-[小鹭音形](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)  [鹭鹤音形](http://wdliming.ysepan.com/)
+[小鹭音形](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)  |  [鹭鹤音形的网盘](http://wdliming.ysepan.com/)
 
 [创码、朕码、声形码、晶数码、晶晶码](http://ime-space.ysepan.com/)
 
