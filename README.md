@@ -107,6 +107,14 @@ Unicode 15.1 CJK-I： 97681字。
 
 第五代手册：http://cbflabs.com/book/ocj5/ocj5/index.html
 
+## 表形码（陈爱文）
+
+http://bxm.ysepan.com/?xzpd=1
+
+[关于表形码的一段往事](https://blog.sina.com.cn/s/blog_4a20485e01000b8b.html)
+
+[表形码与我国的语言学](http://www.yywzw.com/pan/pan-03d-004.htm)
+
 ## 虎码
 
 [虎码@PeaceB](https://tiger-code.com/)〔[虎码测评网](http://assess.tiger-code.com/)〕
@@ -147,11 +155,43 @@ Unicode 15.1 CJK-I： 97681字。
 
 ----
 
+[速录宝、空明码、键盘并击](http://srkmm.ysepan.com/)
+
+----
+
+[爱汉字，用郑码](http://zmdisk.ysepan.com/) [Gang的郑码网盘、龙字根](http://gapeng.ysepan.com/)  [观海的郑码网盘](http://liuwenshu.ysepan.com/) [俗人的郑码网盘](http://wangzhulin.ysepan.com/)
+
+[地下五笔、现代五笔、地下郑码、超强郑码、五码郑码 等](http://uggx.ysepan.com/?xzpd=1)
+
+[自然新码、晚风、微风、随风、西风瘦码、丁丁码](http://leybyr.ysepan.com/)
+
+[哲豆音形](http://zzdzzd.ysepan.com/)
+
+[汉心码、易学码、带调双拼的龙码](http://yaoxiazai.ysepan.com/)
+
+[王林快码](http://jdkm.ysepan.com/)
+
+[超强快码、超强两笔、超强音形](http://fds8866.ysepan.com/)
+
+[字源](http://bxm.ysepan.com/?xzpd=1)
+
+[小鹭音形](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)  [鹭鹤音形](http://wdliming.ysepan.com/)
+
+[创码、朕码、声形码、晶数码、晶晶码](http://ime-space.ysepan.com/)
+
+[张码](http://zhangma.ysepan.com/?xzpd=1)
+
+[98五笔资源库](http://98wb.ysepan.com/?xzpd=1)
+
+[986五笔(五笔986版)资源中心](http://986wb.ysepan.com/?xzpd=1)
+
+----
+
 [山人全息@谢振斌](https://siuze.github.io/ShanRenMaLTS/)
 
 [尔雅徐码@徐国银](http://xumax.cn/)〔[五二顶@局外人](https://github.com/Ace-Who/rime-xuma?tab=readme-ov-file)〕
 
-[宇浩@朱宇浩](https://yuhao.forfudan.com/)
+[宇浩@朱宇浩](https://yuhao.forfudan.com/) [宇浩网盘](http://zhuyuhao.ysepan.com/?xzpd=1)
 
 [真码@命](http://sixchou.ysepan.com/)
 
@@ -169,6 +209,8 @@ Unicode 15.1 CJK-I： 97681字。
 
 [易码@小泥巴](https://yb6b.github.io/yima/) 〔[测评工具](https://yb6b.github.io/#/)〕
 
+[逸码&易码 网盘](http://yima.ysepan.com/?xzpd=1)
+
 [吉蛋饼](https://lost-melody.github.io/wafel/)〔[仓输入法工具](https://lost-melody.github.io/hamster-tools/) 〕 
 
 [云码@为云](https://github.com/orbitoo/kumo)
@@ -178,3 +220,5 @@ Unicode 15.1 CJK-I： 97681字。
 [声笔系列@戴石麟](https://sbxlm.github.io/)
 
 [星空键道@吅吅大山](https://xkinput.github.io/)〔[星猫键道](https://github.com/hugh7007/xmjd6-rere)〕
+
+[灵形速影](https://ding.tansongchen.com/tutorial/collection/second/lxsy)
