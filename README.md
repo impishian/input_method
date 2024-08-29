@@ -149,7 +149,7 @@ BTW，注音输入法的双拼并不常见，一般会叫做“双码注音输�
 
 [虎码@PeaceB](https://tiger-code.com/)〔[虎码测评网](http://assess.tiger-code.com/)〕
 
-字根完全乱序，字根双编码（小码音托）。面向大字符集。
+字根完全乱序，字根双编码（小码音托）。面向大字符集。字根多，打字体验就比较好。像搭积木一样，能轻易搭出各种字。比五笔更容易拆字、重码少、极少的无理码。
 
 241 字根，比五笔、郑码都多，但其网站提供工具来记忆（练习超过3万分，则字根基本过关），也不难记住。不要像五笔那样背字根，可当成 241 个 Key-Value 对来记。
 
@@ -159,9 +159,21 @@ BTW，注音输入法的双拼并不常见，一般会叫做“双码注音输�
 
 [RIME 中州韻輸入法引擎](https://rime.im/)
 
-自定义输入法利器。Windows, MacOS, Linux, Android 等都可用。各平台下则称为小狼毫、鼠须管、同文等。
+自定义输入法利器。Windows, MacOS, Linux, Android, iOS 等都可用。
+
+在Windows下称为小狼毫
+
+在MacOS下称为鼠须管（也有小企鹅fcitx5-macos可用）
+
+在Linux下有ibus-rime、fcitx-rime、fcitx5-rime等
+
+在Android有小企鹅fcitx5-android 和 trime同文输入法
+
+在iOS下有 「仓」输入法 等。
 
 ## 其他
+
+[部分中文输入法简图](https://dieken.gitlab.io/posts/chinese-input-methods/)
 
 小鹤双拼... 等各种**双拼**方案、
 
@@ -177,15 +189,7 @@ BTW，注音输入法的双拼并不常见，一般会叫做“双码注音输�
 
 香港的九方、快码、纵横 ... 等。
 
-[中文输入法](https://dieken.gitlab.io/posts/chinese-input-methods/)
-
 ## 近些年比较活跃的一些输入法方案
-
-[顶功集萃](https://ding.tansongchen.com/)
-
-[速录宝、空明码、键盘并击](http://srkmm.ysepan.com/)
-
-----
 
 [山人全息@谢振斌](https://siuze.github.io/ShanRenMaLTS/)
 
@@ -222,6 +226,12 @@ BTW，注音输入法的双拼并不常见，一般会叫做“双码注音输�
 [星空键道@吅吅大山](https://xkinput.github.io/)〔[星猫键道](https://github.com/hugh7007/xmjd6-rere)〕
 
 [灵形速影](https://ding.tansongchen.com/tutorial/collection/second/lxsy)
+
+----
+
+[顶功集萃](https://ding.tansongchen.com/)
+
+[速录宝、空明码、键盘并击](http://srkmm.ysepan.com/)
 
 ## 永硕 E 盘的一些输入法资源
 
