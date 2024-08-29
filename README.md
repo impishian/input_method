@@ -37,9 +37,9 @@ Unicode 15.1 CJK-I： 97681字。
 
 ----
 
-[各地汉字标准](https://github.com/kitty-panics/cn-tables)
+[三地汉字标准](https://github.com/kitty-panics/cn-tables)
 
-[所有 Unicode CJK 字符](https://github.com/kitty-panics/unicode-cjk)
+[所有 Unicode CJK 字符（近10万字）](https://github.com/kitty-panics/unicode-cjk)
 
 [通用规范汉字表（8105字）](https://github.com/rime-aca/character_set/blob/master/%E9%80%9A%E7%94%A8%E8%A6%8F%E7%AF%84%E6%BC%A2%E5%AD%97%E8%A1%A8.txt)
 
