@@ -71,7 +71,7 @@ Unicode 15.1 CJK-I： 97681字。
 
 自然码是双拼的鼻祖之一。双拼，声韵各一键，打字节奏稳定，并可减少击键。2009年3月26日更新到7.27版本后，停止了更新。不少爱好者在主流输入法中定制实现自然码。
 
-另外，自然码辅助码，可减少同音字的重码。单辅也够用了，想用双辅也行（双辅会占用编码空间，造成更多重码）。
+另外，自然码辅助码，可减少同音字的重码。有双辅方案、单辅方案，即：双码、单码的辅码。
 
 ## 郑码（郑易里、郑珑父女）
 
@@ -107,17 +107,19 @@ Unicode 15.1 CJK-I： 97681字。
 
 第五代手册：http://cbflabs.com/book/ocj5/ocj5/index.html
 
+## 二笔输入法（陈劲松）
+
+曾通过中国教育部评审的可以进入中小学教材。2013年专利期满。现有众多爱好者基于二笔实现的方案。
+
 ## 表形码（陈爱文）
+
+早期也是不错的方案，商业纠纷和推广力度不比五笔。
 
 [表形码爱好者网盘](http://bxm.ysepan.com/?xzpd=1)
 
 [关于表形码的一段往事](https://blog.sina.com.cn/s/blog_4a20485e01000b8b.html)
 
 [表形码与我国的语言学](http://www.yywzw.com/pan/pan-03d-004.htm)
-
-## 二笔输入法（陈劲松）
-
-曾通过中国教育部评审的可以进入中小学教材。2013年专利期满。现有众多爱好者基于二笔实现的方案。
 
 ## 顶功（戴石麟）
 
@@ -171,43 +173,13 @@ BTW，注音输入法的双拼并不常见，一般会叫做“双码注音输�
 
 香港的九方、快码、纵横 ... 等。
 
-----
-
 [中文输入法](https://dieken.gitlab.io/posts/chinese-input-methods/)
+
+## 近些年比较活跃的一些输入法方案
 
 [顶功集萃](https://ding.tansongchen.com/)
 
-----
-
 [速录宝、空明码、键盘并击](http://srkmm.ysepan.com/)
-
-----
-
-[爱汉字，用郑码](http://zmdisk.ysepan.com/) [Gang的郑码网盘、龙字根](http://gapeng.ysepan.com/)  [观海的郑码网盘](http://liuwenshu.ysepan.com/) [俗人的郑码网盘](http://wangzhulin.ysepan.com/)
-
-[地下五笔、现代五笔、地下郑码、超强郑码、五码郑码 等](http://uggx.ysepan.com/?xzpd=1)
-
-[自然新码、晚风、微风、随风、西风瘦码、丁丁码](http://leybyr.ysepan.com/)
-
-[哲豆音形](http://zzdzzd.ysepan.com/)
-
-[汉心码、易学码、带调双拼的龙码](http://yaoxiazai.ysepan.com/)
-
-[王林快码](http://jdkm.ysepan.com/)
-
-[超强快码、超强两笔、超强音形](http://fds8866.ysepan.com/)
-
-[字源](http://bxm.ysepan.com/?xzpd=1)
-
-[小鹭音形](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)  [鹭鹤音形](http://wdliming.ysepan.com/)
-
-[创码、朕码、声形码、晶数码、晶晶码](http://ime-space.ysepan.com/)
-
-[张码](http://zhangma.ysepan.com/?xzpd=1)
-
-[98五笔资源库](http://98wb.ysepan.com/?xzpd=1)
-
-[986五笔(五笔986版)资源中心](http://986wb.ysepan.com/?xzpd=1)
 
 ----
 
@@ -246,3 +218,31 @@ BTW，注音输入法的双拼并不常见，一般会叫做“双码注音输�
 [星空键道@吅吅大山](https://xkinput.github.io/)〔[星猫键道](https://github.com/hugh7007/xmjd6-rere)〕
 
 [灵形速影](https://ding.tansongchen.com/tutorial/collection/second/lxsy)
+
+## 永硕 E 盘的一些输入法资源
+
+[爱汉字，用郑码](http://zmdisk.ysepan.com/) [Gang的郑码网盘、龙字根](http://gapeng.ysepan.com/)  [观海的郑码网盘](http://liuwenshu.ysepan.com/) [俗人的郑码网盘](http://wangzhulin.ysepan.com/)
+
+[地下五笔、现代五笔、地下郑码、超强郑码、五码郑码 等](http://uggx.ysepan.com/?xzpd=1)
+
+[自然新码、晚风、微风、随风、西风瘦码、丁丁码](http://leybyr.ysepan.com/)
+
+[哲豆音形](http://zzdzzd.ysepan.com/)
+
+[汉心码、易学码、带调双拼的龙码](http://yaoxiazai.ysepan.com/)
+
+[王林快码](http://jdkm.ysepan.com/)
+
+[超强快码、超强两笔、超强音形](http://fds8866.ysepan.com/)
+
+[字源](http://bxm.ysepan.com/?xzpd=1)
+
+[小鹭音形](https://nxysbtpi3z.feishu.cn/docx/doxcnFyBYZG5922YDDOEprfcS9b)  [鹭鹤音形](http://wdliming.ysepan.com/)
+
+[创码、朕码、声形码、晶数码、晶晶码](http://ime-space.ysepan.com/)
+
+[张码](http://zhangma.ysepan.com/?xzpd=1)
+
+[98五笔资源库](http://98wb.ysepan.com/?xzpd=1)
+
+[986五笔(五笔986版)资源中心](http://986wb.ysepan.com/?xzpd=1)
