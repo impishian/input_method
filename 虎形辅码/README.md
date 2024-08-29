@@ -26,9 +26,21 @@
 
 [搜狗输入法个性化短语-自然虎形](https://github.com/impishian/input_method/blob/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81/%E6%90%9C%E7%8B%97%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AA%E6%80%A7%E7%9F%AD%E8%AF%AD%E5%AF%BC%E5%87%BA_zrm_hu.ini)
 
-#### 3.3 如果用 Rime
+#### 2.3 如果用 Rime
 
 可参考 [rime-ice-ziranma-zhengma-huma](https://github.com/impishian/rime-ice-ziranma-zhengma-huma) 的 [custom_phrase_double.txt](https://github.com/impishian/rime-ice-ziranma-zhengma-huma/blob/main/custom_phrase_double_zrm_hu.txt)
+
+#### 2.4 如果用 fcitx5-android
+
+(1) fcitx5-android -> 设置 -> 导出用户数据 -> 解压 
+
+(2) 解压后，用 [customphrase](https://github.com/impishian/input_method/blob/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81/customphrase) 替换 external/data/pinyin/customphrase
+
+(3) 选择所有(包括 external 目录和 metadata.json 等，注意：metadata.json 需处于最上一级目录) 
+
+(4) 压缩
+
+(5) fcitx5-android -> 设置 -> 导入用户数据 -> 选择压缩文件
 
 #### 3. 手心输入法的一些小 Tips
 
