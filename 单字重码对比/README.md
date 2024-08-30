@@ -36,7 +36,7 @@ BTW，小鹤虎形，也就是：双拼（小鹤方案）+ 虎码首末， 与 �
 
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/cb5f10b2-39b1-4801-80aa-805b8b0b5634">
 
-是参考这个 [小鹤表形](https://tieba.baidu.com/p/8528130134) 里的码表，再补充以下 284 字的编码，得到 zrm_bx_8105.txt，来评测的。
+是参考这个 [小鹤表形](https://tieba.baidu.com/p/8528130134) 里的码表，再补充 284 字的编码，得到 zrm_bx_8105.txt，来评测的。
 
 补充的编码，在此文最后。
 
@@ -58,7 +58,9 @@ BTW，小鹤虎形，也就是：双拼（小鹤方案）+ 虎码首末， 与 �
 
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/27498dd6-3406-4ea2-8ed0-36f7c75bbd7d">
 
-## 8. 自然表形 8105 字所需的（补充字）
+## 8. 自然表形码 补充字的编码
+
+以凑够 8105 标准规范字，虽然可能不需这么做（因为只需6000常用字参与评测）。
 
 ```
 𨭉	iz
