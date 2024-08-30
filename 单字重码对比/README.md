@@ -13,6 +13,8 @@
 
 其他四种，用 “8105单字码表” 目录下的文件，上传到测评网站，所得到的数据。
 
+BTW, 如果会“表形码”，也可用 双拼 + 表形首末。可参考这个 [小鹤表形](https://tieba.baidu.com/p/8528130134)，它的数据似乎也很好。
+
 ## 1. 虎码
 
 <img width="556" alt="image" src="https://github.com/user-attachments/assets/47252841-c7b1-42cb-a171-76ee383ac032">
