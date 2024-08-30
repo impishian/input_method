@@ -58,7 +58,7 @@ BTW，小鹤虎形，也就是：双拼（小鹤方案）+ 虎码首末， 与 �
 
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/27498dd6-3406-4ea2-8ed0-36f7c75bbd7d">
 
-## 8. 自然表形码 补充字的编码
+## 8. 自然表形 补充字的 首末码
 
 以凑够 8105 标准规范字，虽然可能不需这么做（因为只需6000常用字参与评测）。
 
