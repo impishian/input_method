@@ -89,6 +89,8 @@
 
 [第五代仓颉手册](http://cbflabs.com/book/ocj5/ocj5/index.html)
 
+[倉頡輸入秘笈](https://github.com/impishian/input_method/blob/main/%E5%85%B6%E4%BB%96/%E5%80%89%E9%A0%A1%E8%BC%B8%E5%85%A5%E7%A7%98%E7%AC%88.pdf)
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/c0962e76-1fbb-4f5e-9766-beb63320fb64" width="60%" />
 </div>
