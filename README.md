@@ -89,7 +89,9 @@
 
 [第五代仓颉手册](http://cbflabs.com/book/ocj5/ocj5/index.html)
 
-![image](https://github.com/user-attachments/assets/c0962e76-1fbb-4f5e-9766-beb63320fb64)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c0962e76-1fbb-4f5e-9766-beb63320fb64" width="50%" />
+</div>
 
 仓颉输入法凭视觉（非字义或笔顺）把汉字分割为前缀及字身，前缀为最左、最上、最外部分，剩余部分为字身。若字身可以再分，则分为次前缀和次字身。各部分再分拆为有限个字码（中间部分省略），以不破坏字形特征和视觉容易辨识为准。
 
