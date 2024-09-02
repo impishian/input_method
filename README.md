@@ -275,7 +275,7 @@ SYBB
 
 - [晨逸](https://yima.pages.dev/chenyi/)：二笔风格的二码顶。2 码起顶的二笔顶功，最长 6 码；所有字词出简也出全。（类似：声 + 二笔 + 顶功）
 
-[测评工具](https://yb6b.github.io/)
+- [测评工具](https://yb6b.github.io/)
 
 ## 15. 并击
 
