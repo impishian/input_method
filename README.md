@@ -377,6 +377,8 @@ SPBB
 
 - [创码、朕码、声形码、晶数码、晶晶码](http://ime-space.ysepan.com/)
 
+- [米+五笔] [1.网盘](http://xukt.ysepan.com/) | [2.网页](http://www.jpwb.cc/MJWB.htm) | [3.github](https://github.com/SkatingCN/rime-mishi-wubi)
+
 - [张码](http://zhangma.ysepan.com/?xzpd=1)
 
 - [98五笔资源库](http://98wb.ysepan.com/?xzpd=1)
