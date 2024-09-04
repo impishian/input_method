@@ -379,6 +379,8 @@ SPBB
 
 - [米+五笔] [1.网盘](http://xukt.ysepan.com/) | [2.网页](http://www.jpwb.cc/MJWB.htm) | [3.github](https://github.com/SkatingCN/rime-mishi-wubi)
 
+- [现代五笔](http://www.jpwb.cc/DzcrHlp.htm)
+
 - [张码](http://zhangma.ysepan.com/?xzpd=1)
 
 - [98五笔资源库](http://98wb.ysepan.com/?xzpd=1)
