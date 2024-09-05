@@ -384,3 +384,12 @@ SPBB
 - [98五笔资源库](http://98wb.ysepan.com/?xzpd=1)
 
 - [986五笔(五笔986版)资源中心](http://986wb.ysepan.com/?xzpd=1)
+
+### 16.4 本人主要使用的输入法组合 - [自然虎形](https://github.com/impishian/rime-ice-ziranma-zhengma-huma/)
+  
+- 音码：双拼 (自然码方案)，打词打句。
+
+  音形结合：虎码首末作为双拼辅码，打单字。（8105字集内，近乎单字唯一化。重码本不多，若有重，大都可用 ;' 选二三字。 page_size设为5，绝对不用翻页选字。）
+  
+- 形码：虎码
+
