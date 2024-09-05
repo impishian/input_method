@@ -240,6 +240,8 @@ RIME 是一个自定义输入法工具，支持多平台。
 
 [声笔飞单 简要介绍](https://github.com/impishian/input_method/blob/main/%E5%85%B6%E4%BB%96/%E5%A3%B0%E7%AC%94%E9%A3%9E%E5%8D%95.md)
 
+[声笔双拼 之 声笔自然 简要介绍](https://github.com/impishian/input_method/blob/main/%E5%85%B6%E4%BB%96/%E5%A3%B0%E7%AC%94%E5%8F%8C%E6%8B%BC%E4%B9%8B%E5%A3%B0%E7%AC%94%E8%87%AA%E7%84%B6.md)
+
 声笔系列码是一种独特的顶功输入法。不仅如此，它更是顶功输入的缔造者和引领者。
 
 以声笔系列码为首的顶功输入法是自成一体的，在输入法研究者和爱好者中自发地衍生出了一个庞大的体系。
