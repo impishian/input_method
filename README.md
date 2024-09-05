@@ -212,6 +212,8 @@
 
 [RIME 中州韻輸入法引擎 官网](https://rime.im/)
 
+[Awesome RIME](https://github.com/ayaka14732/awesome-rime) 整理了很多基于Rime 的输入方案和配置。
+
 RIME 是一个自定义输入法工具，支持多平台。
 
 |  平台 | 软件 |
