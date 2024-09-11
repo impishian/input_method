@@ -336,11 +336,13 @@ SPBB
 
 - 蓝宝石@秋风
 
+- [奕码@小泥巴](https://yb6b.github.io/yima/grand-code/)
+  
 - [逸码@小泥巴](https://yb6b.github.io/yima/graceful-code/)
 
 - [易码@小泥巴](https://yb6b.github.io/yima/) 〔[测评工具](https://yb6b.github.io/#/)〕
 
-- [逸码&易码 网盘](http://yima.ysepan.com/?xzpd=1)
+- [奕码 & 逸码 & 易码 网盘](http://yima.ysepan.com/?xzpd=1)
 
 - [吉蛋饼](https://lost-melody.github.io/wafel/)〔[仓输入法工具](https://lost-melody.github.io/hamster-tools/) 〕 
 
