@@ -288,6 +288,9 @@ SPBB
 
 - [测评工具](https://yb6b.github.io/)
 
+![image](https://github.com/user-attachments/assets/ae0d4170-d160-4d6e-9e41-04d2eb12ecd6)
+
+
 ## 15. 并击
 
 并行击键，高速输入。并击主要用于速录机的领域。电脑键盘上并击可参考：[速录宝、空明码、键盘并击](http://srkmm.ysepan.com/)
