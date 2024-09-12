@@ -290,6 +290,7 @@ SPBB
 
 ![image](https://github.com/user-attachments/assets/ae0d4170-d160-4d6e-9e41-04d2eb12ecd6)
 
+（BTW，与易码码表不一样，奕码三定的码表里安排了26个一级简码。有一级简码，严格来说，就不能总是四二顶了。双码字后，若要跟单码字，那还是需手动把双码字先顶了）
 
 ## 15. 并击
 
