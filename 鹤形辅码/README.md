@@ -10,6 +10,55 @@
 
 自然码双拼的韵母键位的 D与L互换，Z->W->X->P->Y->K->C->N->B->Z 按此序换，就能得到小鹤双拼的键位。
 
+逆序换，则可将小鹤转为自然码。
+
+```
+将 fly.txt 里 $2 列的第二个字母替换，实现将单字码表，由小鹤双拼转为自然码双拼。
+
+(1) 第一、第二字母组合不为 aa 或 oo 或 ee 或 ai 或
+    ei 或 ao 或 ou 或 an 或 en 或 er 或 ah 或 eg，才执行替换。
+
+(2) 替换规则：
+    若为d则换为l，若为l则换为d，若为z则换为b，若为b则换为n，
+    若为n则换为c，若为c则换为k，若为k则换为y，若为y则换为p，
+    若为p则换为x，若为x则换为w，若为w则换为z。
+
+awk '{
+    # 判断 $2 的长度是否足够
+    if (length($2) >= 2) {
+        first_char = substr($2, 1, 1);  # 获取第一个字符
+        second_char = substr($2, 2, 1); # 获取第二个字符
+        combination = first_char second_char; # 获取前两个字符组合
+        
+        # 判断组合是否不在指定的例外组合列表中
+        if (combination != "aa" && combination != "oo" && combination != "ee" &&
+            combination != "ai" && combination != "ei" && combination != "ao" &&
+            combination != "ou" && combination != "an" && 
+            combination != "en" && combination != "er" && 
+            combination != "ah" && combination != "eg") {
+            
+            # 执行替换规则
+            if (second_char == "d") second_char = "l";
+            else if (second_char == "l") second_char = "d";
+            else if (second_char == "z") second_char = "b";
+            else if (second_char == "b") second_char = "n";
+            else if (second_char == "n") second_char = "c";
+            else if (second_char == "c") second_char = "k";
+            else if (second_char == "k") second_char = "y";
+            else if (second_char == "y") second_char = "p";
+            else if (second_char == "p") second_char = "x";
+            else if (second_char == "x") second_char = "w";
+            else if (second_char == "w") second_char = "z";
+            
+            # 更新 $2
+            $2 = first_char second_char substr($2, 3);
+        }
+    }
+    
+    print $0;  # 输出修改后的行
+}' fly.txt
+```
+
 #### 1.3 鹤形辅码
 
 除了在小鹤音形输入法里使用之外，其实也可作为独立的辅码方案，用于其他的拼音、双拼输入法。
