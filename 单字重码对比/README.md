@@ -7,7 +7,7 @@
 
 自然虎形 或 小鹤虎形 (0.38%~0.54%) < 自然表形 (0.79%~1.02%) <
 
-小鹤音形 (1.01%~1.38%) < 自然码 (2%~2.95%) < 
+小鹤音形 (1.01%~1.38%) < 自然汉心 (1.05%~1.49%) < 自然码 (2%~2.95%) < 
 
 纯双拼 (45%~52%)
 ```
@@ -44,19 +44,38 @@ BTW，小鹤虎形，也就是：双拼（小鹤方案）+ 虎码首末， 与 �
 
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/a758a338-2608-429c-bbb7-424264b82e1f">
 
-## 6. 自然码
+
+## 6. 自然汉心
+
+自然双拼 + 汉心码形辅
+
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/b6b8af9a-1c34-4d0c-9c4a-9b788acae7b0">
+
+【注】
+
+汉心辅助码，来自：
+
+汉心码网盘 -> 双拼辅助码-汉心码-【码表】-> 汉心码15集合包.zip -> 汉心手心辅助码双码.txt
+
+对该文件，取其字与 8105 字之交集，得 7907 字。
+
+自然双拼与 7907 字之汉心辅助码 合而得到 zrm_hanxin_7907.txt
+
+若再补全约 200 字达到 8105 字，则测评的重码率可能会略有变化（若测评仅对于 GB2312 字，那么重码率也可能不变）。
+
+## 7. 自然码
 
 自然双拼 + 自然形辅
 
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/7a89aa7d-3a22-4678-9051-a4fe5b951dd7">
 
-## 7. 纯双拼
+## 8. 纯双拼
 
 无辅码
 
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/27498dd6-3406-4ea2-8ed0-36f7c75bbd7d">
 
-## 8. 自然表形 补充字的 首末码
+## 9. 自然表形 补充字的 首末码
 
 自然表形，是参考 [小鹤表形](https://tieba.baidu.com/p/8528130134) 里的 2万多字的码表，再补充 284 字的编码，得到 zrm_bx_8105.txt，来评测的。
 
