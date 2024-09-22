@@ -242,7 +242,7 @@ RIME 是一个自定义输入法工具，支持多平台。
 
 [声笔输入法FAQ](https://sbxlm.github.io/faq)
 
-[声笔飞单 简要介绍](https://github.com/impishian/input_method/blob/main/%E5%85%B6%E4%BB%96/%E5%A3%B0%E7%AC%94%E9%A3%9E%E5%8D%95.md)。
+[声笔飞单 简要介绍](https://github.com/impishian/input_method/blob/main/%E5%85%B6%E4%BB%96/%E5%A3%B0%E7%AC%94%E9%A3%9E%E5%8D%95.md)
 
 [声笔双拼 之 声笔自然 简要介绍](https://github.com/impishian/input_method/blob/main/%E5%85%B6%E4%BB%96/%E5%A3%B0%E7%AC%94%E5%8F%8C%E6%8B%BC%E4%B9%8B%E5%A3%B0%E7%AC%94%E8%87%AA%E7%84%B6.md)
 
@@ -320,7 +320,7 @@ SPBB
 
 八九十年代，曾经是“万码奔腾”的时代，各种输入方案层出不穷地提出来。
 
-现在最多人用的是输入方式，说拼音云计算的智能整句输入。即使是五笔这样的形码，使用者也相对少了。
+现在最多人用的是输入方式，是拼音云计算的智能整句输入。即使是五笔这样的形码，使用者也相对少了。
 
 不过，至今仍有输入法小圈子，在做各种研究，以追求极致的个性化输入体验。
 
