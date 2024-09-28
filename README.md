@@ -13,14 +13,14 @@
 |[《新华字典》](https://zh.wikipedia.org/wiki/%E6%96%B0%E5%8D%8E%E5%AD%97%E5%85%B8) 第12版 | 超过13000字|既标拼音，也标注音。在大陆，是“字”的权威。“最受欢迎的字典”和“最畅销的书”两项世界纪录。 |
 |[《现代汉语词典》](https://zh.wikipedia.org/wiki/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8) 第7版 | 超过13000字，近7万条词|既标拼音，也标注音。在大陆，是“词”的权威。与《新华字典》是同样的编者。|
 |[《通用规范汉字字典》](https://www.cp.com.cn/book/366cddb0-1.html)|8105字 | 配套2013年[《通用规范汉字表》](https://zh.wikisource.org/wiki/%E9%80%9A%E7%94%A8%E8%A7%84%E8%8C%83%E6%B1%89%E5%AD%97%E8%A1%A8) 的字典。读者对象：大众读者，教育工作者和新闻出版广播电视工作者，政府政策工作者|
+|[《康熙字典》](https://zh.wikipedia.org/wiki/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8)|47043 字 | 世上第一部以“字典”命名的字书。中国辞书史上的一座丰碑。|
 |[《汉语大字典》](https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD%E5%A4%A7%E5%AD%97%E5%85%B8)(第二版) | 60370字| |
 |[《汉语大词典》](https://zh.wikipedia.org/wiki/%E6%BC%A2%E8%AA%9E%E5%A4%A7%E8%A9%9E%E5%85%B8)| 22000以上的字，37万5千余条词| |
 |[《中华字海》](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E5%AD%97%E6%B5%B7)| 85568字| |
 |[《中华大字典》](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E5%A4%A7%E5%AD%97%E5%85%B8)|57470字| |
-|[《辞海》](https://zh.wikipedia.org/wiki/%E8%BE%9E%E6%B5%B7)(大陆第7版) |超过13万条词 (涉及的字，则不明确), | BTW, 台湾最新是第10版|
+|[《辞海》](https://zh.wikipedia.org/wiki/%E8%BE%9E%E6%B5%B7)(大陆第7版) |超过13万条词 (涉及的字，则不明确) | BTW, 台湾最新是第10版|
 |[《辞源》](https://zh.wikipedia.org/wiki/%E8%BE%9E%E6%BA%90)第三版|14210字，复词 92646个|
 |[《汉字海》](https://www.china-e.com.cn/ZY.html)|正文收列字头单字102434个，附录收列字头单字11112个 | 目前世界上收录汉字最多的工具书。中易(就是郑码的公司)主编.|
-|[《康熙字典》](https://zh.wikipedia.org/wiki/%E5%BA%B7%E7%86%99%E5%AD%97%E5%85%B8)|47043 字 | 世上第一部以“字典”命名的字书。中国辞书史上的一座丰碑。|
 |[《國語辭典》](https://zh.wikipedia.org/wiki/%E6%95%99%E8%82%B2%E9%83%A8%E5%9C%8B%E8%AA%9E%E8%BE%AD%E5%85%B8)网络第六版|11930字，152398词|
 |[《異體字字典》](https://zh.wikipedia.org/wiki/%E7%95%B0%E9%AB%94%E5%AD%97%E5%AD%97%E5%85%B8)正式七版|106303字|
 
