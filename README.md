@@ -557,11 +557,11 @@ Type4Me 还提供了配套的 Agent Skill，可以根据使用者提出的纠错
 
 > 语音输入整句，键盘输入法修改个别错字。
 
-例如，可以使用苹果（设置->启用听写）或华为（小艺输入法的语音输入，选离线使用）的本地语音模型，输入大部分内容，再用“自然虎形” （自然码双拼+一两位辅码，用大字根的虎码的首末码作为辅助码）修改识别错误的单字。这样既保留了语音输入速度快的优点，也能利用音形输入法低重码、适合精确选字的特点。
+例如，可以使用苹果（设置->启用听写）或华为（小艺输入法的语音输入，选离线使用）的本地语音模型，输入大部分内容，再用“**自然虎形**” （自然码双拼+一两位辅码，用大字根的虎码的首末码作为辅助码）修改识别错误的单字。这样既保留了语音输入速度快的优点，也能利用音形输入法低重码、适合精确选字的特点。
 
-iPhone、iPad 用户可以安装仓输入法，通过 Wi-Fi 上传自定义短语文件 [custom_phrase_double.txt](https://github.com/impishian/rime-ice-ziranma-zhengma-huma/blob/main/custom_phrase_double.txt)，再重新部署 Rime，使其支持自然码双拼加虎码首末辅助码的单字输入。
+iPhone、iPad 用户可以安装仓输入法，通过 Wi-Fi 上传自定义短语文件 [custom_phrase_double.txt](https://github.com/impishian/rime-ice-ziranma-zhengma-huma/blob/main/custom_phrase_double.txt)，再重新部署 Rime，使其支持 **自然虎形** 打单。
 
-Android 用户（比如华为手机/平板），可以安装手心输入法，参见 [手心输入法法使用自然虎形打单](https://github.com/impishian/input_method/tree/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81) ， 导入自定义短语，再限制其访问网络用。
+Android 用户（比如华为手机/平板），可以安装手心输入法，导入自定义短语，再限制其访问网络，来支持 **自然虎形** 打单。导入的文件参见 [手心输入法法使用自然虎形打单](https://github.com/impishian/input_method/tree/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81) 。
 
 macOS/Windows/ubuntu 等，直接安装配置 Rime 就行，比如参考[这个](https://github.com/impishian/rime-ice-ziranma-zhengma-huma)。
 
