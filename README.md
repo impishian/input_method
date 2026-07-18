@@ -561,6 +561,10 @@ Type4Me 还提供了配套的 Agent Skill，可以根据使用者提出的纠错
 
 iPhone、iPad 用户可以安装仓输入法，通过 Wi-Fi 上传自定义短语文件 [custom_phrase_double.txt](https://github.com/impishian/rime-ice-ziranma-zhengma-huma/blob/main/custom_phrase_double.txt)，再重新部署 Rime，使其支持自然码双拼加虎码首末辅助码的单字输入。
 
+Android 用户（比如华为手机/平板），可以安装手心输入法，参见 [手心输入法法使用自然虎形打单](https://github.com/impishian/input_method/tree/main/%E8%99%8E%E5%BD%A2%E8%BE%85%E7%A0%81) ， 导入自定义短语，再限制其访问网络用。
+
+macOS/Windows/ubuntu 等，直接安装配置 Rime 就行，比如参考[这个](https://github.com/impishian/rime-ice-ziranma-zhengma-huma)。
+
 总的思路是：
 
 > 语音负责快速输入词句，双拼或音形码负责精确修改单字。
