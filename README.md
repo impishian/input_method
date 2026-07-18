@@ -506,8 +506,8 @@ SPBB
 
 例如：
 
-- [Typeflux](https://github.com/mylxsw/typeflux)：适用于 macOS，支持本地语音模型，也可以连接阿里云、豆包、Google、OpenAI Whisper API 等多种云端识别服务；还可以使用大模型进行改写、翻译和问答。
-- [Type4Me](https://github.com/joewongjc/type4me)：适用于 macOS，支持本地及云端语音识别、流式输入、热词、映射词和大模型文本处理。
+- [Typeflux](https://github.com/mylxsw/typeflux)：适用于 macOS，支持本地语音模型（openAI开源的Whisper、阿里巴巴开源的SenseVoice/FunASR/Qwen3-ASR等），也可以连接阿里云、豆包、Google、OpenAI Whisper API 等多种云端识别服务；还可以使用本地或云端的大模型进行“润色”改写、翻译和问答。
+- [Type4Me](https://github.com/joewongjc/type4me)：适用于 macOS，支持本地（SenseVoice/Qwen3-ASR等）及云端语音识别、流式输入、热词、映射词和大模型文本处理。
 - [蛐蛐 QuQu](https://github.com/yan5xu/ququ)：面向中文用户的开源桌面语音输入工具，可使用本地 FunASR Paraformer 模型，并可配置大语言模型整理识别结果。
 
 开源并不必然等于完全离线。安装后仍需检查当前选择的是本地模型还是云端 API，以及大语言模型润色功能是否会把文字发送到外部服务器。
